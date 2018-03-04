@@ -1,0 +1,31 @@
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Demo_Client_3.exe.config
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Demo_Client_3.exe
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Demo_Client_3.pdb
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Library.dll
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\EventyList.dll
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\NKH.MindSqualls.dll
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\WinUsbWrapper.dll
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Library.pdb
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.csprojResolveAssemblyReference.cache
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.Form1.resources
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.Properties.Resources.resources
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.csproj.GenerateResource.Cache
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.exe
+C:\Users\Tej\Desktop\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.pdb
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Demo_Client_3.exe.config
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.exe
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.pdb
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Demo_Client_3.exe
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Demo_Client_3.pdb
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Library.dll
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\EventyList.dll
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\NKH.MindSqualls.dll
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\WinUsbWrapper.dll
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Library.pdb
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.csprojResolveAssemblyReference.cache
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.Form1.resources
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.Properties.Resources.resources
+C:\Users\Tej\Desktop\AVINSoR Project\AVINSoR FInal\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.csproj.GenerateResource.Cache
+D:\portfolio and projects\AVINSoR Project\AVINSoR Final - working 25.06.15\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\bin\Debug\AVINSoR_Demo_Client_3.exe.config
+D:\portfolio and projects\AVINSoR Project\AVINSoR Final - working 25.06.15\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.exe
+D:\portfolio and projects\AVINSoR Project\AVINSoR Final - working 25.06.15\AVINSoR_Client_Demo_WinForms\AVINSoR_Demo_Client_3\obj\Debug\AVINSoR_Demo_Client_3.pdb

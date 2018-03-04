@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27D513DA-E25C-42CD-8DA0-AC604EBFBDE6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AVINSoR_Library</RootNamespace>
+    <AssemblyName>AVINSoR_Library</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EventyList">
+      <HintPath>..\EventyList.dll</HintPath>
+    </Reference>
+    <Reference Include="NKH.MindSqualls">
+      <HintPath>..\NKH_MindSqualls_dll_v2_2\DLL\NKH.MindSqualls.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Auxiliary\KeyGenerator.cs" />
+    <Compile Include="Auxiliary\MatlabInterface.cs" />
+    <Compile Include="Cognition.cs" />
+    <Compile Include="DTControls\BCM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DTControls\BCM.Designer.cs">
+      <DependentUpon>BCM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTControls\Driver.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DTControls\Driver.Designer.cs">
+      <DependentUpon>Driver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTControls\Matlab.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DTControls\Matlab.Designer.cs">
+      <DependentUpon>Matlab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTControls\NxtRobot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DTControls\NxtRobot.Designer.cs">
+      <DependentUpon>NxtRobot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTControls\SURFDetector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DTControls\SURFDetector.Designer.cs">
+      <DependentUpon>SURFDetector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTControls\Variable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DTControls\Variable.Designer.cs">
+      <DependentUpon>Variable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movement\CartesianVehicleDriver.cs" />
+    <Compile Include="Movement\Enums.cs" />
+    <Compile Include="Movement\OutputToWheels.cs" />
+    <Compile Include="Movement\WheelMovementPattern.cs" />
+    <Compile Include="Movement\WheelMovementPatternManager.cs" />
+    <Compile Include="NxtAbstraction\Nxt.main.cs" />
+    <Compile Include="NxtAbstraction\Nxt.modes.cs" />
+    <Compile Include="NxtAbstraction\Nxt.motors.cs" />
+    <Compile Include="NxtAbstraction\Nxt.sensors.cs" />
+    <Compile Include="NxtAbstraction\NxtSensorValues.cs" />
+    <Compile Include="NxtRobot.cs" />
+    <Compile Include="PatternClassification\Inputs\DerivativeVariable.cs" />
+    <Compile Include="PatternClassification\Inputs\IntegratorVariable.cs" />
+    <Compile Include="PatternClassification\Inputs\InterpolatingVariable.cs" />
+    <Compile Include="PatternClassification\Inputs\Value\ByteValue.cs" />
+    <Compile Include="PatternClassification\Inputs\Value\GenericValue.cs" />
+    <Compile Include="PatternClassification\Inputs\Value\PercentValue.cs" />
+    <Compile Include="PatternClassification\Inputs\Variable.cs" />
+    <Compile Include="PatternClassification\Inputs\VariableList.cs" />
+    <Compile Include="PatternClassification\Outputs\ClassCategory.cs" />
+    <Compile Include="PatternClassification\PatternClassifierInput.cs" />
+    <Compile Include="PatternClassification\PatternClassifierInputList.cs" />
+    <Compile Include="PatternClassification\PatternClassifiers\BayesClassifierModule.cs" />
+    <Compile Include="PatternClassification\PatternClassifiers\BayesClassifierModule.lists.cs" />
+    <Compile Include="PatternClassification\PatternClassifiers\BayesClassifierModule.matlab.cs" />
+    <Compile Include="PatternClassification\PatternClassifiers\BayesClassifierModule.matlab_actualization.cs" />
+    <Compile Include="PatternClassification\PatternClassifiers\BayesClassifierModuleList.cs" />
+    <Compile Include="PatternClassification\VisualObjectDetectors\SurfFeaturesDetector.cs" />
+    <Compile Include="PatternClassification\VisualObjectDetectors\SurfFeaturesDetectorList.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MLApp">
+      <Guid>{C36E46AB-6A81-457B-9F91-A7719A06287F}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DTControls\BCM.resx">
+      <DependentUpon>BCM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DTControls\Driver.resx">
+      <DependentUpon>Driver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DTControls\NxtRobot.resx">
+      <DependentUpon>NxtRobot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DTControls\SURFDetector.resx">
+      <DependentUpon>SURFDetector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DTControls\Variable.resx">
+      <DependentUpon>Variable.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

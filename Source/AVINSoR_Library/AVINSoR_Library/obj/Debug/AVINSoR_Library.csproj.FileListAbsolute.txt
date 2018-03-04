@@ -1,0 +1,20 @@
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\obj\Debug\AVINSoR_Library.csprojResolveAssemblyReference.cache
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\obj\Debug\Interop.MLApp.dll
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\obj\Debug\AVINSoR_Library.csproj.ResolveComReference.cache
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\bin\Debug\AVINSoR_Library.dll
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\bin\Debug\AVINSoR_Library.pdb
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\bin\Debug\EventyList.dll
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\bin\Debug\NKH.MindSqualls.dll
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\bin\Debug\WinUsbWrapper.dll
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\obj\Debug\AVINSoR_Library.dll
+c:\users\tej\documents\visual studio 2013\Projects\AVINSoR_Library\AVINSoR_Library\obj\Debug\AVINSoR_Library.pdb
+F:\AVINSoR_Library\AVINSoR_Library\obj\Debug\AVINSoR_Library.csprojResolveAssemblyReference.cache
+F:\AVINSoR_Library\AVINSoR_Library\obj\Debug\Interop.MLApp.dll
+F:\AVINSoR_Library\AVINSoR_Library\obj\Debug\AVINSoR_Library.csproj.ResolveComReference.cache
+F:\AVINSoR_Library\AVINSoR_Library\obj\Debug\AVINSoR_Library.dll
+F:\AVINSoR_Library\AVINSoR_Library\bin\Debug\AVINSoR_Library.dll
+F:\AVINSoR_Library\AVINSoR_Library\bin\Debug\AVINSoR_Library.pdb
+F:\AVINSoR_Library\AVINSoR_Library\bin\Debug\EventyList.dll
+F:\AVINSoR_Library\AVINSoR_Library\bin\Debug\NKH.MindSqualls.dll
+F:\AVINSoR_Library\AVINSoR_Library\bin\Debug\WinUsbWrapper.dll
+F:\AVINSoR_Library\AVINSoR_Library\obj\Debug\AVINSoR_Library.pdb
